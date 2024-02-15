@@ -1,0 +1,27 @@
+
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    width: 100%; /* Adjust the width as needed */
+  }
+  .containers {
+    margin: 0 auto;
+    width: 200%; 
+  }
+  .title {
+    font-family: 'Georgia', serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .description {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    color: #666;
+    line-height: 1.5;
+  }
+  
